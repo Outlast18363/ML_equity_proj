@@ -1,1 +1,1 @@
-# Duke_ML_Equity_Proj
+# ML_equity_proj
