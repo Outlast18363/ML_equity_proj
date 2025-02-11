@@ -1,1 +1,1 @@
-# ML_equity_proj
+# DECSCI 401 ML_equity_proj
